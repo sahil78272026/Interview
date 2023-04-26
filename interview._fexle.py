@@ -1,3 +1,5 @@
+# Findind Leader in an array
+
 def printLeaders(arr,size):
      
     for i in range(0, size):
