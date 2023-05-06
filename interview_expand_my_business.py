@@ -68,6 +68,22 @@ django
 django rest framework
 
     
-
+1. how to scale systems.
+2. how to use map function.
+3. decorator with arguments
+4. difference between normal function, generator and lambda function.
+5. how to use authentication system.
+6. what is JWT.
+7. triggers in database.
+8. left join vs right join.?
+9. how to fetch employee with second highest salary.
+10. how does middlwware works.
+11. what are django signals.
+12. how to establish relationshio between models.
+13 what are serializers.
+14 we have product model and qrcode model , how to serilize qrcode model.
+15 difference between list and tupple.
+16 why tuples are fast.
+17 build atm system.
 
 
