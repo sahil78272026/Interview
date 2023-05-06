@@ -85,5 +85,10 @@ django rest framework
 15 difference between list and tupple.
 16 why tuples are fast.
 17 build atm system.
+18. what are iterators.
+
+
+
+#
 
 
