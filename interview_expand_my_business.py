@@ -86,6 +86,8 @@ django rest framework
 16 why tuples are fast.
 17 build atm system.
 18. what are iterators.
+19. what are classmethods and static method s?
+
 
 
 
