@@ -87,6 +87,8 @@ django rest framework
 17 build atm system.
 18. what are iterators.
 19. what are classmethods and static method s?
+20. what is apiview and generic view?
+
 
 
 
