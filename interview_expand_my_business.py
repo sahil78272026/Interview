@@ -88,6 +88,7 @@ django rest framework
 18. what are iterators.
 19. what are classmethods and static method s?
 20. what is apiview and generic view?
+21. indexes in database
 
 
 
