@@ -89,6 +89,7 @@ django rest framework
 19. what are classmethods and static method s?
 20. what is apiview and generic view?
 21. indexes in database
+22. ACL in database
 
 
 
