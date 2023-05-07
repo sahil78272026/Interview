@@ -90,6 +90,7 @@ django rest framework
 20. what is apiview and generic view?
 21. indexes in database
 22. ACL in database
+23. filters in django
 
 
 
