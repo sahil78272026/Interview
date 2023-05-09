@@ -92,8 +92,10 @@ django rest framework
 22. ACL in database
 23. filters in django
 
-
-
+2nd Round - 09-May-2023
+# what are the roles and responsibilities?
+# what are the design patterns you have used in your application.?
+# how do you set permissions in django admin?
 
 
 #
