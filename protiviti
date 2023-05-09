@@ -15,3 +15,27 @@ for i in range(len(list1)//2):
 print(finalList)
 
 
+
+"""def decorator(func,*args,**kwargs):
+    def wrapper_func():
+        print(args)
+        print("In wrapper Func")
+        func()
+        return func
+    return wrapper_func
+
+def div(num,denom):
+    newNum = num/denom
+    print("In Sum")
+
+
+    
+"""
+
+filepath = 'D:\\pwd.txt'
+with open(filepath,'r') as f:  # context manager
+    file_data = f.read()
+    print(file_data)
+
+
+
