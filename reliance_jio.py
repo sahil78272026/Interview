@@ -4,7 +4,7 @@
 # whats is django orm
 # have you used bootstrap?
 # have you used 
-# caching, sessions,
+# caching, sessions, Cookies
 # django signals?
 # can use different database in one django application?
 # different types of datastructures avaialble in python
@@ -13,4 +13,5 @@
 # difference between classbased view and function based view?
 # what are different modules/packages you have used?
 # what are django exceptions?
+
 
