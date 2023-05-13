@@ -13,5 +13,9 @@
 # difference between classbased view and function based view?
 # what are different modules/packages you have used?
 # what are django exceptions?
+# what are static files
+# why do we use collectstatic 
+# what are static methods
+# 
 
 
