@@ -46,6 +46,7 @@ tup1 = (1,)
 # composite key
 # default django models used in your project
 # difference between list and array?
+# namespaces 
 
 
 #
