@@ -45,3 +45,8 @@ tup1 = (1,)
 # do you know about docker
 # composite key
 # default django models used in your project
+# difference between list and array?
+# namespaces 
+
+
+#
