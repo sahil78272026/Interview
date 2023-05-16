@@ -6,3 +6,7 @@
 # difference between static root/ static
 # can we remove os.path.join?
 # have you created CI-CD Pipelines
+# how do you test your api?
+# have you used pytest module
+# how do you do logging?
+# how do you manipulate logging?
