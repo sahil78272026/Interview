@@ -49,4 +49,16 @@ tup1 = (1,)
 # namespaces 
 
 
-#
+# SECOND ROUND
+
+# threadsafe
+# threading library
+# definition
+# code review
+# idiom port and statement
+# query params and pathparams
+# design principle/ solid 
+# unti test
+# how do you achieve encapsulation in python oops
+# how do you use database? with SQLalchemy ?
+# serverless , lambda AWS
