@@ -1,3 +1,8 @@
+# Company - Aquity
+# HR - Reena T , 08667320835
+# First Round
+
+
 """# 
 def greet(name):
     return "Hi " + name
@@ -82,5 +87,3 @@ print(v2-v1)
 print(newL)"""
 
 # id, name, subject
-
-select * from Student distinct

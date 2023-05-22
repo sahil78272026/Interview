@@ -1,4 +1,4 @@
-# RIVERUS TECHNOLOGY SOLUTIONSj
+# RIVERUS TECHNOLOGY SOLUTIONS
 
 # silk in django // performance analysis
 # JSONField in models
