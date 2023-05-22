@@ -12,3 +12,4 @@ for i in range(100):
 # select related and pre fetch related
 # how would you create a RestAPI
 # what are routers in DRF
+# How would you rebuild a project in different way
