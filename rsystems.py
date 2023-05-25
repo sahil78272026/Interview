@@ -1,3 +1,7 @@
+# rsytems, 23-may-2023
+# Akshay, 087888 68961
+# first round clear
+
 # lambda function
 # django signals
 # caching
