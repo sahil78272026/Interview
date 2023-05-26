@@ -1,5 +1,10 @@
+# first round on 24-May
 #Parul Gupta
 # +918607187800
+
+
+# first round cleared
+# second round on 26-May
 
 """even = lambda a: [num for num in range(a) if num%2 ==0]
 """
