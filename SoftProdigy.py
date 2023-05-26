@@ -25,14 +25,14 @@ print(newDict)"""
 Create a object with Name obj1 and ensure print(obj1) shows both Base and Height."""
 
 """class Triangle:
-    
+
     def __init__(self,base,height):
         self.base = base
         self.height = height
-    
+
     def __str__(self):
         return str(self.base) + str(self.height)
-    
+
 obj1 = Triangle(1,2)
 print(obj1)"""
 
@@ -60,4 +60,13 @@ def index(request):
 # Projects
 
 
+# ******* Second Round 26-May-2023, Innterviewer - Paramjeet*********
 
+# used stored procedure in database
+# have you created any chat based application.
+# how many people are there in your team.
+# how the projects comes to you, do you have any business team.
+# how the payment integration done
+# have you used flask
+# write a query to return (User.objects.get(firstname="Sahil") or (User.objects.get(firstname="Paramjeet")
+# have you done web scrapping.
