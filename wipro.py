@@ -6,3 +6,5 @@
 # sessions
 # how to get handle large data in database
 # services used in AWS
+# VPC
+# what you did in EC2
