@@ -15,6 +15,17 @@
 
 # difference between sort and sorted
 # sort a dictionary
-# generators
+# generators,
 # how memory works in python
 # list comprehension
+
+l1 = [[2,5,9],[10,13,19]]
+l2 = []
+# l2.extend(l1[0]+l1[1])
+
+
+for i in range(len(l1)):
+    l2.extend(l1[i])
+
+print(l2)
+
