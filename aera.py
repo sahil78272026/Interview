@@ -18,7 +18,7 @@ def vowelCount(name):
     print(len(vowelList))
     print(len(constList))
 
-        
+
 vowelCount(varname)
 
 
@@ -48,7 +48,7 @@ list1 = [[1]]*3
 # output = [[1],[1],[1]]
 print(list1)
 
-list1[1] = 10
+
 # output = [10,[1],[1]]
 print(list1)
 
