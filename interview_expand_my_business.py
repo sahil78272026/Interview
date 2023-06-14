@@ -53,21 +53,21 @@ Money
     2000
     500
 
-select sal from emp orderby sal desc 
+select sal from emp orderby sal desc
 """
 
 # find the nth prime number 5
 # senior python dev
 # erp, saas
 # hrms, like urban
-# snapcom, 
+# snapcom,
 
 """
 database
 django
 django rest framework
 
-    
+
 1. how to scale systems.
 2. how to use map function.
 3. decorator with arguments
@@ -97,7 +97,5 @@ django rest framework
 # what are the design patterns you have used in your application.?
 # how do you set permissions in django admin?
 
-
-#
-
+"""
 
