@@ -7,29 +7,29 @@
 # what are routers in DRF
 # How would you rebuild a project in different way
 # find the nth prime number 5
-# 1. how to scale systems.
-# 2. how to use map function.
-# 3. decorator with arguments
-# 4. difference between normal function, generator and lambda function.
-# 5. how to use authentication system.
-# 6. what is JWT.
-# 7. triggers in database.
-# 8. left join vs right join.?
-# 9. how to fetch employee with second highest salary.
-# 10. how does middlwware works.
-# 11. what are django signals.
-# 12. how to establish relationshio between models.
-# 13 what are serializers.
-# 14 we have product model and qrcode model , how to serilize qrcode model.
-# 15 difference between list and tupple.
-# 16 why tuples are fast.
-# 17 build atm system.
-# 18. what are iterators.
-# 19. what are classmethods and static method s?
-# 20. what is apiview and generic view?
-# 21. indexes in database
-# 22. ACL in database
-# 23. filters in django
+# how to scale systems.
+# how to use map function.
+# decorator with arguments
+# difference between normal function, generator and lambda function.
+# how to use authentication system.
+# what is JWT.
+# triggers in database.
+# left join vs right join.?
+# how to fetch employee with second highest salary.
+# how does middlwware works.
+# what are django signals.
+# how to establish relationshio between models.
+# what are serializers.
+# we have product model and qrcode model , how to serilize qrcode model.
+# difference between list and tupple.
+# why tuples are fast.
+# build atm system.
+# what are iterators.
+# what are classmethods and static method s?
+# what is apiview and generic view?
+# indexes in database
+# ACL in database
+# filters in django
 # what are the roles and responsibilities?
 # what are the design patterns you have used in your application.?
 # how do you set permissions in django admin?
