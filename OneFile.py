@@ -148,3 +148,25 @@
 # have you used cython
 # caching
 # Celery
+
+# how many aws services have you used
+# how to stop a request if it is coming say 1000 times
+# have you used url shortner services?
+'''
+# how to get data from employee and student table from django Candidate Model
+class Candidate():
+
+    name
+    age
+
+
+employee: name, age
+student: name, age
+
+
+
+Candidate.objects.using('employee').all()
+Candidate.objects.using('student').all()
+
+
+'''
