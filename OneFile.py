@@ -174,3 +174,9 @@ Candidate.objects.using('student').all()
 # how the data is saved/retrieved from db
 # request/response cycle
 # what are the file structure of django app/ explain each file
+# private variables in python
+# dunder methods
+# difference between class method and static menthod
+# what are decorators
+# modules/libraries you have used
+# how authentication was done, JWT
