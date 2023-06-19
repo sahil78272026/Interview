@@ -4,4 +4,3 @@
 # how the data is saved/retrieved from db
 # request/response cycle
 # what are the file structure of django app/ explain each file
-#
