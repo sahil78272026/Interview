@@ -11,9 +11,9 @@
 
 # data:16-June-2023, HR- Sakshi: 7014129682 , Interview: Shubham
 
-#x = '{[]}{}' # correct
-#x = '{[}{}'  # incorrect
-#x = '{[}}'   # incorrect
+x = '{[]}{}' # correct
+x = '{[}{}'  # incorrect
+x = '{[}}'   # incorrect
 x = '}}'   # incorrect
 
 
@@ -25,22 +25,29 @@ def paraCheck(x):
         if ch=='(' or ch=='{' or ch=='[':
             stak.append(ch)
 
-        if ch==')' and len(stak)!=0 and stak[-1]=='(':
-            stak.pop()
+        if ch==')':
+            if len(stak)>0:
+                last_ele = stak.pop()
+                if last_ele != '(':
+                    return False
+            else:
+                return False
 
-        if ch==']' and len(stak)!=0 and stak[-1]=='[':
-            stak.pop()
-
-        """if ch=='}' and len(stak)!=0 and stak[-1]=='{':
-            stak.pop()"""
+        if ch==']':
+            if  len(stak)>0:
+                last_ele = stak.pop()
+                if last_ele != '[':
+                    return False
+            else:
+                return False
 
         if ch=='}':
-             if len(stak)>0:
-                 last_ele = stak.pop()
-                 if last_ele != '{':
-                     return False
-             else:
-                 return False
+            if len(stak)>0:
+                last_ele = stak.pop()
+                if last_ele != '{':
+                    return False
+            else:
+                return False
 
     if len(stak)==0:
         return True
@@ -48,6 +55,7 @@ def paraCheck(x):
         return False
 
 print(paraCheck(x))
+
 
 
 # how many aws services have you used

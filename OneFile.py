@@ -170,3 +170,7 @@ Candidate.objects.using('student').all()
 
 
 '''
+# what the experice and project you have done
+# how the data is saved/retrieved from db
+# request/response cycle
+# what are the file structure of django app/ explain each file
