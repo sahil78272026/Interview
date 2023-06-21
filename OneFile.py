@@ -202,3 +202,5 @@ Candidate.objects.using('student').all()
 # how many ways we can write serializers
 # what is the package to import to use model serializers
 # sorting algorithms
+# unit testing
+# debugging
