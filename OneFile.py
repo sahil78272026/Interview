@@ -180,3 +180,25 @@ Candidate.objects.using('student').all()
 # what are decorators
 # modules/libraries you have used
 # how authentication was done, JWT
+# data: 19-June, Omprakash, HR: Voshita
+# projects
+# DSA
+# what are the inbuilt ds you know
+# list vs tupple
+# decorator
+# where to use generators?
+# dunder methods
+# concept of oops
+# 112. Path Sum -leetcode
+# joins in databse
+# if to sort millions items, which sorting algorithms you'll use
+# name searching and sorting algos
+# what is deadlock in database? How you prevent deadlock
+# why do we need psycopg2 driver?
+# why do we use generators?
+# git command to deploy application on AWS
+# threading
+# docker
+# how many ways we can write serializers
+# what is the package to import to use model serializers
+# sorting algorithms

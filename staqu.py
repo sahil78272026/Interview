@@ -17,44 +17,44 @@ x = '{[}}'   # incorrect
 x = '}}'   # incorrect
 
 
-def paraCheck(x):
-    if len(x)%2!=0:
-        return False
-    stak = []
-    for ch in x:
-        if ch=='(' or ch=='{' or ch=='[':
-            stak.append(ch)
+class Solution:
+    def isValid(self, s: str) -> bool:
+        if len(s)%2!=0:
+            return False
 
-        if ch==')':
-            if len(stak)>0:
-                last_ele = stak.pop()
-                if last_ele != '(':
+        stack = []
+        for ch in s:
+            if ch=='(' or ch=='{' or ch=='[':
+                stack.append(ch)
+
+            if ch==')':
+                if len(stack)>0:
+                    last_ele = stack.pop()
+                    if last_ele != '(':
+                        return False
+                else:
                     return False
-            else:
-                return False
 
-        if ch==']':
-            if  len(stak)>0:
-                last_ele = stak.pop()
-                if last_ele != '[':
+            if ch==']':
+                if  len(stack)>0:
+                    last_ele = stack.pop()
+                    if last_ele != '[':
+                        return False
+                else:
                     return False
-            else:
-                return False
 
-        if ch=='}':
-            if len(stak)>0:
-                last_ele = stak.pop()
-                if last_ele != '{':
+            if ch=='}':
+                if len(stack)>0:
+                    last_ele = stack.pop()
+                    if last_ele != '{':
+                        return False
+                else:
                     return False
-            else:
-                return False
 
-    if len(stak)==0:
-        return True
-    else:
-        return False
-
-print(paraCheck(x))
+        if len(stack)!=0:
+            return False
+        else:
+            return True
 
 
 
