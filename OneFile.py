@@ -202,3 +202,10 @@ Candidate.objects.using('student').all()
 # how many ways we can write serializers
 # what is the package to import to use model serializers
 # sorting algorithms
+# How to delete duplicate records from a table
+# difference between delete and truncate
+# count the number maximun occurence : nums = [2,2,1,1,1,2,2,3,4,3]
+# what is a view in sql
+# how do you resolve merge conflicts in git
+# difference between git merge and git pull
+# difference between char and varchar in sql
