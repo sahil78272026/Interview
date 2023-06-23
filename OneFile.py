@@ -209,3 +209,6 @@ Candidate.objects.using('student').all()
 # how do you resolve merge conflicts in git
 # difference between git merge and git pull
 # difference between char and varchar in sql
+# unit testing
+# debugging
+
