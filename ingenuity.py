@@ -11,3 +11,14 @@
 # sorting algorithms
 # unit testing
 # debugging
+
+
+# date: 28-June-2023,
+
+# Oops principal
+# SOLID Principle
+# array Vs LinkedList
+# tuple
+# find the second maximum in a list
+# A , O , A+O
+# 2 identical balls, find minimum no of floors.
