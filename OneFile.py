@@ -211,4 +211,22 @@ Candidate.objects.using('student').all()
 # difference between char and varchar in sql
 # unit testing
 # debugging
-
+# Oops principal
+# SOLID Principle
+# array Vs LinkedList
+# tuple
+# find the second maximum in a list
+# A , O , A+O
+# 2 identical balls, find minimum no of floors.
+# how to fetch data from one table which should not be in another table
+# Automatic initialization in sql
+# inful operator in sql
+# explain the project
+# caching mechanism
+# mixins
+# inheritence
+# authentication
+# JWT
+# difference between make migrations and migrate
+# selection sort
+# binary search,
