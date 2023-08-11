@@ -230,3 +230,10 @@ Candidate.objects.using('student').all()
 # difference between make migrations and migrate
 # selection sort
 # binary search,
+# select related, pre-fetch related
+# query optimization in django
+# Q in django
+# what is lazy loading
+# atomic query in django
+# generators
+
