@@ -8,3 +8,5 @@
 # celery
 # inner joins, query format
 # SQL
+# JWT
+# Views in DRF
