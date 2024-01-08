@@ -293,5 +293,9 @@ Candidate.objects.using('student').all()
 # for i in range(11):
 #     print(star)
 
-
-
+# projects
+# request response
+# context processor
+# threading in django
+# how to use two db
+# how to make relationship between tables of two different db.
