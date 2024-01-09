@@ -299,3 +299,7 @@ Candidate.objects.using('student').all()
 # threading in django
 # how to use two db
 # how to make relationship between tables of two different db.
+# decorators 
+# how to write efficient queries
+# how memory managed in python
+# monkey patching
