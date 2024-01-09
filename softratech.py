@@ -7,3 +7,5 @@
 # what is rollback in django.
 # decorators 
 # how to write efficient queries
+# how memory managed in python
+# monkey patching
