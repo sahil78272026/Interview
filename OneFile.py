@@ -299,3 +299,4 @@ Candidate.objects.using('student').all()
 # threading in django
 # how to use two db
 # how to make relationship between tables of two different db.
+# decorator
