@@ -98,7 +98,14 @@
 # # SQL
 
 
+#**************************************
+# 2nd round, abhinav, 03-Feb-2023 Sunday. Meenakshi HR
 
+# monkey patching
+# memory mangement in python
+# scaling the System
+# round robin
+# difference between mvc and mvt
 
 
 
