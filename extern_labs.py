@@ -1,0 +1,3 @@
+indexes,
+normalization
+stored procedures
