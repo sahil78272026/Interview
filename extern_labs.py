@@ -1,3 +1,3 @@
-indexes,
-normalization
-stored procedures
+# indexes,
+# normalization
+# stored procedures
